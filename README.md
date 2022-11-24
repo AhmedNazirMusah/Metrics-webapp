@@ -1,4 +1,4 @@
-# Space Travelers Hub
+# Crypto
 
 > This is a Crypto made by React to showcase the use of Redux and API.
 
