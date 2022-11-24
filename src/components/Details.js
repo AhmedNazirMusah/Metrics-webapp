@@ -10,9 +10,8 @@ const Details = () => {
         Name :
         {' '}
         {coins.name}
-        {' '}
-        <br />
-        {' '}
+      </h1>
+      <h1>
         Market Cap Rank :
         {' '}
         {coins.market_cap_rank}
