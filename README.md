@@ -1,5 +1,6 @@
-# Crypto
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Crypto
 
 >  This is a Crypto webapp made with React to showcase the details of various crypto currencies.
 
@@ -17,7 +18,7 @@ The app roivides:
 
 ## Live Demo 
 
-[ **coming soon 🚀** ](#)
+[ **See Project🚀** ](https://prismatic-toffee-1912ac.netlify.app)
 
 ## Get Started
 
