@@ -18,7 +18,7 @@ The app roivides:
 
 ## Live Demo 
 
-[ **See Project🚀** ](https://prismatic-toffee-1912ac.netlify.app)
+[ **See Project🚀** ](https://cryptoappnazir.netlify.app)
 
 ## Get Started
 
